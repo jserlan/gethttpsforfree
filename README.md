@@ -1,19 +1,3 @@
-# Get HTTPS for free!
-
-Website: https://gethttpsforfree.com
-
-This is a project that allows you to get a free HTTPS certificate without
-having to install any software or having to share your private keys with anyone.
-It uses the non-profit [Let's Encrypt](https://letsencrypt.org/) certificate
-authority to issue the free certificates. Hooray for free certs!
-
-## Donate
-
-If this script is useful to you, please donate to the EFF. I don't work there,
-but they do fantastic work.
-
-[https://eff.org/donate/](https://eff.org/donate/)
-
 ## How to use this website
 
 Go to: https://gethttpsforfree.com
@@ -164,26 +148,18 @@ Finally, since this website is completely static, it's un-hostable! Just
 right-click and "Save Page As...", save the complete website to your local
 computer, then open it in a browser. It still works when hosted locally!
 
-## Feedback/Contributing
+# Get HTTPS for free!
 
-I'd love to receive feedback, issues, and pull requests to make this script
-better. The main script itself, `js/index.js`, is less than 800 lines of code, so
-feel free to read through it! I tried to comment things well and make it crystal
-clear what it's doing.
+Website: https://gethttpsforfree.com
 
-TODO (pull requests welcome):
-* `revoke.html` - A page with steps for revoking certificates
-* ~~Alternative file-based command instead of python server~~
-* ~~Installation instructions for Apache~~
-* Accept GPG public keys as account public keys
+This is a project that allows you to get a free HTTPS certificate without
+having to install any software or having to share your private keys with anyone.
+It uses the non-profit [Let's Encrypt](https://letsencrypt.org/) certificate
+authority to issue the free certificates. Hooray for free certs!
 
-## What's NOT on the Roadmap
+## Donate
 
-* Third party libraries (asn1.js is the only one)
-* Fonts or images
-* CSS more than 5 kilobytes
-* Javascript that only changes UI
-* HTML that decreases source readability (added wrapping divs, etc.)
+If this script is useful to you, please donate to the EFF. I don't work there,
+but they do fantastic work.
 
-This website is supposed to [work](http://motherfuckingwebsite.com/), nothing more.
-
+[https://eff.org/donate/](https://eff.org/donate/)
