@@ -148,7 +148,7 @@ Finally, since this website is completely static, it's un-hostable! Just
 right-click and "Save Page As...", save the complete website to your local
 computer, then open it in a browser. It still works when hosted locally!
 
-# Get HTTPS for free!
+## Original project
 
 Website: https://gethttpsforfree.com
 
